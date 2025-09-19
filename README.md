@@ -27,7 +27,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 | Category          | Technologies                                                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Languages** | `Python` `Java` `C++` `JavaScript` `TypeScript` `SQL`                                                                                      |
+| **Languages** | `Python` `JavaScript` `SQL`                                                                                      |
 | **AI / ML** | `TensorFlow` `PyTorch` `scikit-learn` `Pandas`                                                                                             |
 | **Game Dev** | `Spigot/Paper API` `Minecraft Forge/Fabric` `Unity`                                                                                        |
 | **3D / CAD** | `Blender` `Fusion 360` `OpenSCAD` `Cura`                                                                                                   |
