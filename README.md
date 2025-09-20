@@ -44,11 +44,3 @@ Here are some of the technologies and tools I enjoy working with:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwashi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Harvey's Top Languages" />
   </a>
 </p>
-
----
-
-### 📫 How to Reach Me
-
-<p align="center">
-  <a href="mailto:hjw45h@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
